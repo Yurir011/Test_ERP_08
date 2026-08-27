@@ -250,54 +250,6 @@
      <string>담당자    :</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="Go_pushButton_2">
-    <property name="geometry">
-     <rect>
-      <x>118</x>
-      <y>563</y>
-      <width>171</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="icon">
-     <iconset>
-      <normaloff>../ICON/그림2.png</normaloff>../ICON/그림2.png</iconset>
-    </property>
-    <property name="iconSize">
-     <size>
-      <width>171</width>
-      <height>51</height>
-     </size>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_13">
-    <property name="geometry">
-     <rect>
-      <x>160</x>
-      <y>578</y>
-      <width>91</width>
-      <height>21</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>15</pointsize>
-      <bold>true</bold>
-     </font>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">color: rgb(240, 240, 240);</string>
-    </property>
-    <property name="text">
-     <string>문서 참조</string>
-    </property>
-   </widget>
    <widget class="QLabel" name="label_12">
     <property name="geometry">
      <rect>

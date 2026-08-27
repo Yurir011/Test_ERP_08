@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1024</width>
-    <height>1519</height>
+    <height>1448</height>
    </rect>
   </property>
   <property name="font">
@@ -23,7 +23,7 @@
     <property name="geometry">
      <rect>
       <x>120</x>
-      <y>120</y>
+      <y>90</y>
       <width>241</width>
       <height>81</height>
      </rect>
@@ -42,7 +42,7 @@
     <property name="geometry">
      <rect>
       <x>800</x>
-      <y>210</y>
+      <y>180</y>
       <width>181</width>
       <height>41</height>
      </rect>
@@ -61,7 +61,7 @@
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>330</y>
+      <y>280</y>
       <width>81</width>
       <height>31</height>
      </rect>
@@ -79,7 +79,7 @@
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>380</y>
+      <y>330</y>
       <width>81</width>
       <height>31</height>
      </rect>
@@ -97,7 +97,7 @@
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>430</y>
+      <y>380</y>
       <width>81</width>
       <height>31</height>
      </rect>
@@ -115,7 +115,7 @@
     <property name="geometry">
      <rect>
       <x>360</x>
-      <y>330</y>
+      <y>280</y>
       <width>51</width>
       <height>31</height>
      </rect>
@@ -133,9 +133,9 @@
     <property name="geometry">
      <rect>
       <x>120</x>
-      <y>330</y>
+      <y>280</y>
       <width>181</width>
-      <height>35</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -158,9 +158,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>120</x>
-      <y>380</y>
+      <y>330</y>
       <width>181</width>
-      <height>35</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -183,9 +183,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>120</x>
-      <y>430</y>
+      <y>380</y>
       <width>400</width>
-      <height>61</height>
+      <height>70</height>
      </rect>
     </property>
     <property name="font">
@@ -209,7 +209,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>430</x>
-      <y>410</y>
+      <y>360</y>
       <width>91</width>
       <height>91</height>
      </rect>
@@ -233,7 +233,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>505</y>
+      <y>455</y>
       <width>81</width>
       <height>31</height>
      </rect>
@@ -251,9 +251,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>120</x>
-      <y>505</y>
+      <y>455</y>
       <width>400</width>
-      <height>35</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -276,7 +276,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>553</y>
+      <y>503</y>
       <width>81</width>
       <height>31</height>
      </rect>
@@ -295,7 +295,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>605</y>
+      <y>555</y>
       <width>71</width>
       <height>31</height>
      </rect>
@@ -314,9 +314,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>120</x>
-      <y>553</y>
+      <y>503</y>
       <width>400</width>
-      <height>35</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -340,9 +340,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>120</x>
-      <y>605</y>
+      <y>555</y>
       <width>400</width>
-      <height>35</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -366,7 +366,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>690</x>
-      <y>330</y>
+      <y>280</y>
       <width>51</width>
       <height>31</height>
      </rect>
@@ -384,7 +384,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>690</x>
-      <y>380</y>
+      <y>330</y>
       <width>71</width>
       <height>31</height>
      </rect>
@@ -402,9 +402,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>770</x>
-      <y>330</y>
+      <y>280</y>
       <width>201</width>
-      <height>35</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -427,9 +427,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>770</x>
-      <y>380</y>
+      <y>330</y>
       <width>201</width>
-      <height>35</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -452,7 +452,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>690</x>
-      <y>430</y>
+      <y>380</y>
       <width>161</width>
       <height>31</height>
      </rect>
@@ -470,10 +470,10 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <widget class="QTextEdit" name="ClientNametextEdit">
     <property name="geometry">
      <rect>
-      <x>120</x>
-      <y>730</y>
-      <width>851</width>
-      <height>35</height>
+      <x>130</x>
+      <y>660</y>
+      <width>840</width>
+      <height>40</height>
      </rect>
     </property>
     <property name="font">
@@ -495,10 +495,10 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <widget class="QTextEdit" name="ClientAdd_textEdit">
     <property name="geometry">
      <rect>
-      <x>120</x>
-      <y>780</y>
-      <width>851</width>
-      <height>35</height>
+      <x>130</x>
+      <y>710</y>
+      <width>840</width>
+      <height>40</height>
      </rect>
     </property>
     <property name="font">
@@ -520,8 +520,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <widget class="QLabel" name="label_13">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>870</y>
+      <x>50</x>
+      <y>800</y>
       <width>421</width>
       <height>31</height>
      </rect>
@@ -538,8 +538,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <widget class="QLabel" name="Tel_label_3">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>920</y>
+      <x>100</x>
+      <y>850</y>
       <width>51</width>
       <height>31</height>
      </rect>
@@ -557,8 +557,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <widget class="QLabel" name="Tel_label_4">
     <property name="geometry">
      <rect>
-      <x>250</x>
-      <y>915</y>
+      <x>260</x>
+      <y>845</y>
       <width>161</width>
       <height>31</height>
      </rect>
@@ -576,8 +576,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <widget class="QLabel" name="Tel_label_5">
     <property name="geometry">
      <rect>
-      <x>530</x>
-      <y>915</y>
+      <x>540</x>
+      <y>845</y>
       <width>51</width>
       <height>31</height>
      </rect>
@@ -595,8 +595,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <widget class="QLabel" name="Tel_label_6">
     <property name="geometry">
      <rect>
-      <x>665</x>
-      <y>915</y>
+      <x>675</x>
+      <y>845</y>
       <width>111</width>
       <height>31</height>
      </rect>
@@ -614,8 +614,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <widget class="QLabel" name="Tel_label_7">
     <property name="geometry">
      <rect>
-      <x>850</x>
-      <y>915</y>
+      <x>860</x>
+      <y>845</y>
       <width>111</width>
       <height>31</height>
      </rect>
@@ -634,9 +634,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>950</y>
+      <y>890</y>
       <width>140</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -659,9 +659,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>980</y>
+      <y>940</y>
       <width>140</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -684,9 +684,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>190</x>
-      <y>950</y>
+      <y>890</y>
       <width>281</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -709,9 +709,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>1010</y>
+      <y>990</y>
       <width>140</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -736,7 +736,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
       <x>40</x>
       <y>1040</y>
       <width>140</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -759,9 +759,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>1070</y>
+      <y>1090</y>
       <width>140</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -784,9 +784,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>190</x>
-      <y>980</y>
+      <y>940</y>
       <width>281</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -809,9 +809,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>190</x>
-      <y>1010</y>
+      <y>990</y>
       <width>281</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -836,7 +836,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
       <x>190</x>
       <y>1040</y>
       <width>281</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -859,9 +859,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>190</x>
-      <y>1070</y>
+      <y>1090</y>
       <width>281</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -884,9 +884,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>480</x>
-      <y>950</y>
+      <y>890</y>
       <width>130</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -909,9 +909,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>480</x>
-      <y>980</y>
+      <y>940</y>
       <width>130</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -934,9 +934,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>480</x>
-      <y>1010</y>
+      <y>990</y>
       <width>130</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -961,7 +961,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
       <x>480</x>
       <y>1040</y>
       <width>130</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -984,9 +984,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>480</x>
-      <y>1070</y>
+      <y>1090</y>
       <width>130</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1009,9 +1009,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>620</x>
-      <y>950</y>
+      <y>890</y>
       <width>170</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1034,9 +1034,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>800</x>
-      <y>950</y>
+      <y>890</y>
       <width>170</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1059,9 +1059,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>800</x>
-      <y>980</y>
+      <y>940</y>
       <width>170</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1084,9 +1084,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>620</x>
-      <y>980</y>
+      <y>940</y>
       <width>170</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1109,9 +1109,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>620</x>
-      <y>1010</y>
+      <y>990</y>
       <width>170</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1136,7 +1136,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
       <x>620</x>
       <y>1040</y>
       <width>170</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1159,9 +1159,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>620</x>
-      <y>1070</y>
+      <y>1090</y>
       <width>170</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1184,9 +1184,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>800</x>
-      <y>1010</y>
+      <y>990</y>
       <width>170</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1211,7 +1211,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
       <x>800</x>
       <y>1040</y>
       <width>170</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1234,9 +1234,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>800</x>
-      <y>1070</y>
+      <y>1090</y>
       <width>170</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1259,7 +1259,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>-20</x>
-      <y>670</y>
+      <y>620</y>
       <width>1071</width>
       <height>16</height>
      </rect>
@@ -1277,7 +1277,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>-20</x>
-      <y>270</y>
+      <y>240</y>
       <width>1191</width>
       <height>20</height>
      </rect>
@@ -1289,8 +1289,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <widget class="Line" name="line_3">
     <property name="geometry">
      <rect>
-      <x>0</x>
-      <y>1220</y>
+      <x>-10</x>
+      <y>1200</y>
       <width>1041</width>
       <height>20</height>
      </rect>
@@ -1308,7 +1308,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>1280</y>
+      <y>1240</y>
       <width>421</width>
       <height>31</height>
      </rect>
@@ -1326,7 +1326,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>1310</y>
+      <y>1270</y>
       <width>421</width>
       <height>31</height>
      </rect>
@@ -1344,7 +1344,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>1340</y>
+      <y>1300</y>
       <width>421</width>
       <height>31</height>
      </rect>
@@ -1362,7 +1362,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>770</x>
-      <y>1310</y>
+      <y>1260</y>
       <width>141</width>
       <height>31</height>
      </rect>
@@ -1383,7 +1383,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>1370</y>
+      <y>1330</y>
       <width>421</width>
       <height>31</height>
      </rect>
@@ -1411,7 +1411,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>../7831613.png</normaloff>../7831613.png</iconset>
+      <normaloff>../ICON/7831613.png</normaloff>../ICON/7831613.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -1437,7 +1437,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>../free-icon-download-button-532.png</normaloff>../free-icon-download-button-532.png</iconset>
+      <normaloff>../ICON/free-icon-download-button-532.png</normaloff>../ICON/free-icon-download-button-532.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -1463,7 +1463,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>../7257795.png</normaloff>../7257795.png</iconset>
+      <normaloff>../ICON/7257795.png</normaloff>../ICON/7257795.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -1479,9 +1479,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>410</x>
-      <y>330</y>
+      <y>280</y>
       <width>111</width>
-      <height>35</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1503,8 +1503,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <widget class="QLabel" name="Tel_label_8">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>730</y>
+      <x>50</x>
+      <y>660</y>
       <width>71</width>
       <height>31</height>
      </rect>
@@ -1522,8 +1522,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
    <widget class="QLabel" name="Tel_label_9">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>780</y>
+      <x>50</x>
+      <y>710</y>
       <width>71</width>
       <height>31</height>
      </rect>
@@ -1542,9 +1542,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>480</x>
-      <y>1100</y>
+      <y>1140</y>
       <width>130</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1567,9 +1567,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>800</x>
-      <y>1100</y>
+      <y>1140</y>
       <width>170</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1592,9 +1592,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>1100</y>
+      <y>1140</y>
       <width>140</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1617,9 +1617,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>190</x>
-      <y>1100</y>
+      <y>1140</y>
       <width>281</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1642,134 +1642,9 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>620</x>
-      <y>1100</y>
+      <y>1140</y>
       <width>170</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="html">
-     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'맑은 고딕'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="Description7_textEdit">
-    <property name="geometry">
-     <rect>
-      <x>190</x>
-      <y>1130</y>
-      <width>281</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="html">
-     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'맑은 고딕'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="Item7_textEdit">
-    <property name="geometry">
-     <rect>
-      <x>40</x>
-      <y>1130</y>
-      <width>140</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="html">
-     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'맑은 고딕'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="Amount7_textEdit">
-    <property name="geometry">
-     <rect>
-      <x>800</x>
-      <y>1130</y>
-      <width>170</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="html">
-     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'맑은 고딕'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="UnitPrice7_textEdit">
-    <property name="geometry">
-     <rect>
-      <x>620</x>
-      <y>1130</y>
-      <width>170</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="html">
-     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'맑은 고딕'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="Qty7_textEdit">
-    <property name="geometry">
-     <rect>
-      <x>480</x>
-      <y>1130</y>
-      <width>130</width>
-      <height>31</height>
+      <height>45</height>
      </rect>
     </property>
     <property name="font">
@@ -1792,135 +1667,10 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <property name="geometry">
      <rect>
       <x>690</x>
-      <y>470</y>
+      <y>420</y>
       <width>281</width>
       <height>171</height>
      </rect>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="Description8_textEdit">
-    <property name="geometry">
-     <rect>
-      <x>190</x>
-      <y>1160</y>
-      <width>281</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="html">
-     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'맑은 고딕'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="Amount8_textEdit">
-    <property name="geometry">
-     <rect>
-      <x>800</x>
-      <y>1160</y>
-      <width>170</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="html">
-     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'맑은 고딕'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="Qty8_textEdit">
-    <property name="geometry">
-     <rect>
-      <x>480</x>
-      <y>1160</y>
-      <width>130</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="html">
-     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'맑은 고딕'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="UnitPrice8_textEdit">
-    <property name="geometry">
-     <rect>
-      <x>620</x>
-      <y>1160</y>
-      <width>170</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="html">
-     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'맑은 고딕'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="Item8_textEdit">
-    <property name="geometry">
-     <rect>
-      <x>40</x>
-      <y>1160</y>
-      <width>140</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="html">
-     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-hr { height: 1px; border-width: 0; }
-li.unchecked::marker { content: &quot;\2610&quot;; }
-li.checked::marker { content: &quot;\2612&quot;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'맑은 고딕'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
   </widget>
